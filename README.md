@@ -1,7 +1,7 @@
-### Hi there, I'm Sahil - aka [clutonik][website]
+## Hi there, I'm Sahil - aka [clutonik][website]
 
 
-### I'm a cloud platform engineer and currently working on:
+## I'm a cloud platform engineer and currently working on:
 
 - Elastic Cloud Enterprise (Private cloud platform to host elasticsearch clusters)
 - Using Python for:
@@ -12,7 +12,7 @@
 - Fluentd
 - Logstash
 
-### Side Projects(In progress)
+## Side Projects(In progress)
 
 - Website for a furniture store.
 - My own resume website with blogging functionality.
