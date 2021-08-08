@@ -17,6 +17,10 @@
 - Website for a furniture store.
 - My own resume website with blogging functionality.
 
+## Github Stats
+[![clutonik's GitHub stats](https://github-readme-stats.vercel.app/api?username=clutonik)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Get in touch with me
 
 - [Email][email]
