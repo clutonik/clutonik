@@ -18,7 +18,7 @@
 - My own resume website with blogging functionality.
 
 ## Github Stats
-[![clutonik's GitHub stats](https://github-readme-stats.vercel.app/api?username=clutonik&hide=stars&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![clutonik's GitHub stats](https://github-readme-stats.vercel.app/api?username=clutonik&hide=stars&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Get in touch with me
